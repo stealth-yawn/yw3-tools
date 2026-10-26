@@ -1,0 +1,1528 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+</head>
+<body>
+    <table>
+        <tbody>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">209</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">びきゃく</td>
+                                <td class="style_td">E</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：美脚<br/>
+                                    攻撃：けり<br/>
+                                    妖術：いやしの術<br/>
+                                    必殺技：美脚でうっふん<br/>とりつく：美脚にする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">210</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ピヨピヨコ</td>
+                                <td class="style_td">E</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：テンパり<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：電流の術<br/>
+                                    必殺技：ぴよぴよノックアウト<br/>とりつく：ピヨらせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">211</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ほっとケーキ</td>
+                                <td class="style_td">E</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：リラックス<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：いやしの術<br/>
+                                    必殺技：ほっとけないでショー<br/>とりつく：ほっとさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">212</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">いきあたりバッタ</td>
+                                <td class="style_td">E</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：ひらひらボディ<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：つむじ風の術<br/>
+                                    必殺技：あたかも壁ガード<br/>とりつく：その場しのぎになる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">213</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">しゃれこ婦人</td>
+                                <td class="style_td">E</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：おれないハート<br/>
+                                    攻撃：こづく<br/>
+                                    妖術：火花の術<br/>
+                                    必殺技：シャレオツ☆傘刺し<br/>とりつく：ファッション命にする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">214</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">カラカラさん</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：おれないハート<br/>
+                                    攻撃：疾風づき<br/>
+                                    妖術：火花の術<br/>
+                                    必殺技：ハイカラ☆パラソル<br/>とりつく：気前をよくする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">215</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ほね美人</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：おれないハート<br/>
+                                    攻撃：みだれづき<br/>
+                                    妖術：水流の術<br/>
+                                    必殺技：おしゃんちっく☆雨<br/>とりつく：気前をよくする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">216</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">セミまる</td>
+                                <td class="style_td">E</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：かぜよけ<br/>
+                                    攻撃：きりつける<br/>
+                                    妖術：つむじ風の術<br/>
+                                    必殺技：みんみん斬り<br/>とりつく：セミ流忍術
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">217</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">カゲまる</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：かぜよけ<br/>
+                                    攻撃：つばめがえし<br/>
+                                    妖術：竜巻の術<br/>
+                                    必殺技：忍法・影走<br/>とりつく：セミ流忍術
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">218</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ヒグラシまる</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：しりょくA<br/>
+                                    攻撃：つばめがえし<br/>
+                                    妖術：火炎の術<br/>
+                                    必殺技：忍法・神風おこし<br/>とりつく：セミ流忍術・亜琉
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">219</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">こてんパン</td>
+                                <td class="style_td">E</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">
+                                    スキル：どりょくか<br/>
+                                    攻撃：パンチ<br/>
+                                    妖術：こいしの術<br/>
+                                    必殺技：今日もコテンパン祭り<br/>とりつく：コテンパンにする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">220</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">大化ケット</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">
+                                    スキル：もえるとうし<br/>
+                                    攻撃：流星パンチ<br/>
+                                    妖術：落石の術<br/>
+                                    必殺技：デンプシーロールパン<br/>とりつく：大化けさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">221</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">さむガリ</td>
+                                <td class="style_td">E</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：かんつう<br/>
+                                    攻撃：かみつく<br/>
+                                    妖術：氷結の術<br/>
+                                    必殺技：ガリガリつらら<br/>とりつく：寒がらせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">222</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ガリ王子</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：かんつう<br/>
+                                    攻撃：風穴あけ<br/>
+                                    妖術：吹雪の術<br/>
+                                    必殺技：ガリガリ大寒波<br/>とりつく：こごえさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">223</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">あつガルル</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：火のようじん<br/>
+                                    攻撃：風穴あけ<br/>
+                                    妖術：れんごくの術<br/>
+                                    必殺技：熱気ムンムン波<br/>とりつく：心を燃やす
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">224</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">アンビリバ坊</td>
+                                <td class="style_td">E</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：爆発力<br/>
+                                    攻撃：ぶんなぐる<br/>
+                                    妖術：火花の術<br/>
+                                    必殺技：びっくるくるパンチ<br/>とりつく：驚異の力を呼び起こす
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">224</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">バッド坊や</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：爆発力<br/>
+                                    攻撃：正拳突き<br/>
+                                    妖術：火炎の術<br/>
+                                    必殺技：バッド☆炎怒<br/>とりつく：ワルにする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">226</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">激辛ボーイ</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：怒りの力<br/>
+                                    攻撃：正拳突き<br/>
+                                    妖術：火炎の術<br/>
+                                    必殺技：激辛ヒーヒー拳<br/>とりつく：激辛罰ゲーム
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">227</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">つらがわり</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td"></td>
+                                <td class="style_td"></td>
+                                <td class="style_td">
+                                    スキル：じゅうなん<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：氷結の術<br/>
+                                    必殺技：顔面お色直し<br/>とりつく：変な顔にする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">228</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">一つ目小僧</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：しりょくA<br/>
+                                    攻撃：ずつき<br/>
+                                    妖術：氷結の術<br/>
+                                    必殺技：まやかしの瞳<br/>とりつく：目力アップさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">229</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">コンたん</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：モテモテ<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：いやしの術<br/>
+                                    必殺技：魂胆みえみえヒール<br/>とりつく：ドキドキさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">230</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">わかランナー</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：閃光<br/>
+                                    攻撃：タックル<br/>
+                                    妖術：つむじ風の術<br/>
+                                    必殺技：止まり方わからん走<br/>とりつく：疑問をもたせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">231</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">寝コロンブス</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：水あそび<br/>
+                                    攻撃：たたく<br/>
+                                    妖術：水流の術<br/>
+                                    必殺技：ゴーゴー新大陸<br/>とりつく：寝ころばせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">232</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">デモネード</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：果汁100%<br/>
+                                    攻撃：あてみ<br/>
+                                    妖術：放水の術<br/>
+                                    必殺技：でもでもスカッシュ<br/>とりつく：アンシュイなムード
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">233</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">バク</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：はなさない！<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：吸収の術<br/>
+                                    必殺技：ネムケムリ<br/>とりつく：ねむらせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">234</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ハク</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：こううん<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：吸収の術<br/>
+                                    必殺技：白中夢<br/>とりつく：いい夢みさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">235</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">おバク様</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：はなさない！<br/>
+                                    攻撃：はりたおす<br/>
+                                    妖術：死神の術<br/>
+                                    必殺技：ねんねんコロリガス<br/>とりつく：ねむらせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">236</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">江戸っ子パンダ</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：おんみつ<br/>
+                                    攻撃：たたく<br/>
+                                    妖術：あられの術<br/>
+                                    必殺技：こちとらパンダでぃ！<br/>とりつく：江戸っ子の力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">237</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">大江戸忍者パンダ</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：おんみつ<br/>
+                                    攻撃：つばめがえし<br/>
+                                    妖術：氷結の術<br/>
+                                    必殺技：白黒つけるぜぃ！<br/>とりつく：江戸っ子の力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">238</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">カンペちゃん</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：おいのり<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：いやしの術<br/>
+                                    必殺技：お手柔らかに！<br/>とりつく：カンペだよりにする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">239</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">無茶ぶりっ子</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：無茶ぶり<br/>
+                                    攻撃：はりたおす<br/>
+                                    妖術：回復の術<br/>
+                                    必殺技：バラまいちゃってよ！<br/>とりつく：むちゃ振りする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">240</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ノガッパ</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：さぼりじょうず<br/>
+                                    攻撃：パンチ<br/>
+                                    妖術：水流の術<br/>
+                                    必殺技：メガ滝おとし<br/>とりつく：昼寝させる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">241</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">たびガッパ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：かんつう<br/>
+                                    攻撃：つばめがえし<br/>
+                                    妖術：大滝の術<br/>
+                                    必殺技：げきりゅう一閃<br/>とりつく：げきりゅうパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">242</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">なみガッパ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：いっせん<br/>
+                                    攻撃：つばめがえし<br/>
+                                    妖術：大滝の術<br/>
+                                    必殺技：なみのり一閃<br/>とりつく：なみのりパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">243</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ジバニャン</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：まえのめり<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：火花の術<br/>
+                                    必殺技：ひゃくれつ肉球<br/>とりつく：しびれるお札
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">244</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">Bジバニャン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：えんごしゃげき<br/>
+                                    攻撃：ショット<br/>
+                                    妖術：火花の術<br/>
+                                    必殺技：アカネコBランチャー<br/>とりつく：最新テクノロジー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">245</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ジバニャンS</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：ノーガード<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：火炎の術<br/>
+                                    必殺技：ひゃくれつ肉球<br/>とりつく：しびれるお札S
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">246</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ジバニャン劉備</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：超回避<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：火炎の術<br/>
+                                    必殺技：ひゃくれつ肉球<br/>とりつく：しびれるお札
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">247</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">アカマル</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：まえのめり<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：火花の術<br/>
+                                    必殺技：元祖アカマル肉球<br/>とりつく：身軽にする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">248</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">トゲニャン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：とげガード<br/>
+                                    攻撃：風穴あけ<br/>
+                                    妖術：竜巻の術<br/>
+                                    必殺技：チクチク肉球<br/>とりつく：針を刺す
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">249</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ワルニャン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：リーゼント<br/>
+                                    攻撃：地獄げり<br/>
+                                    妖術：火花の術<br/>
+                                    必殺技：ツッパリ夜露死苦！<br/>とりつく：グレさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">250</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ブチニャン</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：もちはだ<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：いかずちの術<br/>
+                                    必殺技：百万倍返し肉球<br/>とりつく：奇跡の合体パワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">251</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">コマさん</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：「あ」<br/>
+                                    攻撃：パンチ<br/>
+                                    妖術：火炎の術<br/>
+                                    必殺技：ひとだま乱舞<br/>とりつく：やけどさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">252</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ししコマ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：「あ」<br/>
+                                    攻撃：ぶんなぐる<br/>
+                                    妖術：れんごくの術<br/>
+                                    必殺技：ひとだまバースト<br/>とりつく：やけどさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">253</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">Bコマさん</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：れんごしゃげき<br/>
+                                    攻撃：ショット<br/>
+                                    妖術：れんごくの術<br/>
+                                    必殺技：シロイヌBランチャー<br/>とりつく：最新テクノロジー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">254</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">コマさんS</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：防火壁<br/>
+                                    攻撃：ぶんなぐる<br/>
+                                    妖術：れんごくの術<br/>
+                                    必殺技：ひとだま乱舞<br/>とりつく：やけどさせるS
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">255</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">コマさん孫策</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：もんげー<br/>
+                                    攻撃：パンチ<br/>
+                                    妖術：れんごくの術<br/>
+                                    必殺技：ひとだま乱舞<br/>とりつく：やけどさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">256</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ジバコマ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：火あそび<br/>
+                                    攻撃：パンチ<br/>
+                                    妖術：れんごくの術<br/>
+                                    必殺技：ニャンげーひとだま<br/>とりつく：奇跡の合体パワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">257</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">コマじろう</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：「うん」<br/>
+                                    攻撃：パンチ<br/>
+                                    妖術：いかずちの術<br/>
+                                    必殺技：風来サンダー<br/>とりつく：とらとらパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">258</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">とらじろう</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：「うん」<br/>
+                                    攻撃：正拳突き<br/>
+                                    妖術：雷神の術<br/>
+                                    必殺技：稲妻クレイジー<br/>とりつく：とらとらパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">259</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">コマじろうS</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：避雷針<br/>
+                                    攻撃：正拳突き<br/>
+                                    妖術：雷神の術<br/>
+                                    必殺技：風来サンダー<br/>とりつく：とらとらパワーS
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">260</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">雨女</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：水あそび<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：水流の術<br/>
+                                    必殺技：私の恋は雨模様<br/>とりつく：じめじめさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">261</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ばくそく</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：爆速<br/>
+                                    攻撃：タックル<br/>
+                                    妖術：氷結の術<br/>
+                                    必殺技：爆裂スタートダッシュ<br/>とりつく：爆速にする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">262</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ナンスカンク</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：だらだら<br/>
+                                    攻撃：しっぽうち<br/>
+                                    妖術：氷結の術<br/>
+                                    必殺技：スカしていいすか？<br/>とりつく：文句をいいがちにする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">263</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">おきラクーン</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：リラックス<br/>
+                                    攻撃：タックル<br/>
+                                    妖術：水流の術<br/>
+                                    必殺技：お気楽スプラッシュ<br/>とりつく：お気楽にする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">264</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">おとなブル</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：先輩風<br/>
+                                    攻撃：くらいつく<br/>
+                                    妖術：氷結の術<br/>
+                                    必殺技：苦すぎた大人の味<br/>とりつく：大人ぶらせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">265</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">たまのこし</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：たまのこし<br/>
+                                    攻撃：あてみ<br/>
+                                    妖術：回復の術<br/>
+                                    必殺技：のれるモンナラー<br/>とりつく：大金を使わせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">266</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">キュン太郎</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：モテモテ<br/>
+                                    攻撃：かみつく<br/>
+                                    妖術：回復の術<br/>
+                                    必殺技：ハートにキュン！<br/>とりつく：キュンキュンさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">267</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ズキュキュン太</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：モテモテ<br/>
+                                    攻撃：ぶったたく<br/>
+                                    妖術：極楽の術<br/>
+                                    必殺技：ズキュキュン・ラブ<br/>とりつく：キュンキュンさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">268</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">裏キュン太</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：のろいのおはだ<br/>
+                                    攻撃：ぶったたく<br/>
+                                    妖術：死神の術<br/>
+                                    必殺技：裏キュン・ラブ<br/>とりつく：腹黒くする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">269</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ケマモン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">
+                                    スキル：おにぎり<br/>
+                                    攻撃：ぶんなぐる<br/>
+                                    妖術：回復の術<br/>
+                                    必殺技：ケマモト特産パンチ<br/>とりつく：田舎の力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">270</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ワンダーニャン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：ながもち<br/>
+                                    攻撃：閃光ぎり<br/>
+                                    妖術：すいとりの術<br/>
+                                    必殺技：ニャッサーソード<br/>とりつく：冒険心
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">271</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ジェットニャン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：ナンバーワン！<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：嵐の術<br/>
+                                    必殺技：大空ジェット肉球<br/>とりつく：ジェットの推進力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">272</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">サルニャン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：きびだんご<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：電流の術<br/>
+                                    必殺技：モンキー炸裂パンチ<br/>とりつく：猿っぽくする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">273</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">トムニャン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：メリケンナイズ<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：火花の術<br/>
+                                    必殺技：ワンハンドレッド肉球<br/>とりつく：ハイテンションにする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">274</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">KKブラザーズ</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：メリケンナイズ<br/>
+                                    攻撃：パンチ<br/>
+                                    妖術：回復の術<br/>
+                                    必殺技：K &amp;K兄弟愛ビーム<br/>とりつく：楽しい気分にする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">275</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ゆきおんな</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：雪あそび<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：吹雪の術<br/>
+                                    必殺技：ゆきんこシャーベット<br/>とりつく：かじかませる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">276</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ふぶき姫</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：雪あそび<br/>
+                                    攻撃：はりたおす<br/>
+                                    妖術：吹雪の術<br/>
+                                    必殺技：キラキラ雪化粧<br/>とりつく：かじかませる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">277</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">百鬼姫</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：のろいのおはだ<br/>
+                                    攻撃：はりたおす<br/>
+                                    妖術：吹雪の術<br/>
+                                    必殺技：ときめき☆百鬼夜行<br/>とりつく：闇の呪い
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">278</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">メロンニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：果汁100%<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：氷結の術<br/>
+                                    必殺技：メロメロ肉球<br/>とりつく：メロン果汁
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">279</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ミカンニャン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：果汁100％<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：いかずちの術<br/>
+                                    必殺技：もぎたてビタニャンC<br/>とりつく：ミカン果汁
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">280</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">キウイニャン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">
+                                    スキル：果汁100％<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：落石の術<br/>
+                                    必殺技：うぶ毛バリヤー<br/>とりつく：キウイのうぶ毛
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">281</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ブドウニャン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：果汁100％<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：水流の術<br/>
+                                    必殺技：つぶぞろいバディ<br/>とりつく：ブドウ果汁
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">282</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">イチゴニャン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：果汁100％<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：火炎の術<br/>
+                                    必殺技：ベリーファイニャー<br/>とりつく：イチゴ果汁
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">283</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">スイカニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：果汁100%<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：吸収の術<br/>
+                                    必殺技：ププププ種鉄砲<br/>とりつく：スイカ果汁
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">284</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">サファイニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：じゅずつなぎ<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：大滝の術<br/>
+                                    必殺技：ひんやりブルー肉球<br/>とりつく：サファイアパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">285</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">エメラルニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：じゅずつなぎ<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：極楽の術<br/>
+                                    必殺技：さわやかグリーン肉球<br/>とりつく：エメラルドパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">286</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ルビーニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：じゅずつなぎ<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：れんごくの術<br/>
+                                    必殺技：じょうねつレッド肉球<br/>とりつく：ルビーパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">287</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">トパニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：じゅずつなぎ<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：雷神の術<br/>
+                                    必殺技：つぶつぶオレンジ肉球<br/>とりつく：トパーズパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">288</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ダイヤニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：じゅずつなぎ<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：吹雪の術<br/>
+                                    必殺技：１００カラット肉球<br/>とりつく：ダイヤパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">289</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ロボガッパ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：超電磁パワー<br/>
+                                    攻撃：パンチ<br/>
+                                    妖術：水流の術<br/>
+                                    必殺技：ガッパーブレード<br/>とりつく：鋼鉄パワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">290</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ロボコマ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：超電磁パワー<br/>
+                                    攻撃：パンチ<br/>
+                                    妖術：火炎の術<br/>
+                                    必殺技：モンゲービームズラ<br/>とりつく：鋼鉄パワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">291</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">セーラーニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：ムーンパワー<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：極楽の術<br/>
+                                    必殺技：ゴーゴー☆ラブニャン<br/>とりつく：女子力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">292</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">レッドJ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：ラッシュ<br/>
+                                    攻撃：きりさく<br/>
+                                    妖術：火炎の術<br/>
+                                    必殺技：地獄の怨念玉<br/>とりつく：凶暴にする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">293</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">マイティードッグ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：爆発力<br/>
+                                    攻撃：正拳突き<br/>
+                                    妖術：氷結の術<br/>
+                                    必殺技：爆裂悶景ストライク<br/>とりつく：恐怖の呪い
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">294</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">かまいたち</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：せつだん<br/>
+                                    攻撃：フルスイング<br/>
+                                    妖術：嵐の術<br/>
+                                    必殺技：辻風スパットキル<br/>とりつく：するどいつむじ風
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">295</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">チョコボニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：チョコリジェネ<br/>
+                                    攻撃：けり<br/>
+                                    妖術：嵐の術<br/>
+                                    必殺技：チョコ肉ラッシュ<br/>とりつく：チョコボ乗り
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">296</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">モーグリニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：モグパワー<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：極楽の術<br/>
+                                    必殺技：究極魔法アルテニャ<br/>とりつく：モーグリパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">297</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ぷにニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：もちはだ<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：放水の術<br/>
+                                    必殺技：ぷにぷにコンボニャン<br/>とりつく：ぷにぷにさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">298</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ぷにコマ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：もちはだ<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：嵐の術<br/>
+                                    必殺技：ぷにぷにコンボズラ<br/>とりつく：ぷにぷにさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">299</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">スシジバ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：すしパワー<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：火花の術<br/>
+                                    必殺技：マグロづくし肉球<br/>とりつく：酢めしパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">300</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">天コマ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：天ぷらパワー<br/>
+                                    攻撃：パンチ<br/>
+                                    妖術：火炎の術<br/>
+                                    必殺技：アゲ天乱舞<br/>とりつく：天かすパワー
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">301</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">河童</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：いあつかん<br/>
+                                    攻撃：ワンツーパンチ<br/>
+                                    妖術：大滝の術<br/>
+                                    必殺技：カッパッ波ー！<br/>とりつく：本物の力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">302</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">水虎</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：いあつかん<br/>
+                                    攻撃：ワンツーパンチ<br/>
+                                    妖術：大滝の術<br/>
+                                    必殺技：大河の暴れ水<br/>とりつく：本物の力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">303</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">マスターニャーダ</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：ホース<br/>
+                                    攻撃：ぶったたく<br/>
+                                    妖術：嵐の術<br/>
+                                    必殺技：無限のホースパワー<br/>とりつく：ホースの力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">304</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">烏天狗</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：かぜよけ<br/>
+                                    攻撃：ずつき<br/>
+                                    妖術：嵐の術<br/>
+                                    必殺技：烏羽の突風<br/>とりつく：追い風を吹かせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">305</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">カルラ</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：いっせん<br/>
+                                    攻撃：ずつき<br/>
+                                    妖術：れんごくの術<br/>
+                                    必殺技：迦楼羅焔<br/>とりつく：閉じ込める
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">590</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ジバニャンK</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：よゆうの風格<br/>
+                                    攻撃：閃光ぎり<br/>
+                                    妖術：火炎の術<br/>
+                                    必殺技：Ｋソードスラッシュ<br/>とりつく：王の威厳
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">592</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">コマさんJ</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：魔法の羽<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：れんごくの術<br/>
+                                    必殺技：七世目Jソウル乱舞<br/>とりつく：兵士の覚悟
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">593</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">コマじゅうろう</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：ガードくずし<br/>
+                                    攻撃：みだれづき<br/>
+                                    妖術：雷神の術<br/>
+                                    必殺技：十郎のツンツンテン<br/>とりつく：１０倍がんばる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">596</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">弁財天</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：アンコール<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：雷神の術<br/>
+                                    必殺技：弁天サンダービート<br/>とりつく：弁財天の雷
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">611</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ネタバレリーナ</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：かれいなステップ<br/>
+                                    攻撃：はりたおす<br/>
+                                    妖術：嵐の術<br/>
+                                    必殺技：ネタバレフィナーレ<br/>とりつく：華麗に舞わせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">617</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">乙姫</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：いやしのしぶき<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：大滝の術<br/>
+                                    必殺技：竜宮城のおもてなし<br/>とりつく：深海の神秘
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">631</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">デバミ</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：あなほり<br/>
+                                    攻撃：ずつき<br/>
+                                    妖術：回復の術<br/>
+                                    必殺技：ハダカデバヒール<br/>とりつく：まるはだかにする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">632</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">しらんプリン</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：つやっつや<br/>
+                                    攻撃：あてみ<br/>
+                                    妖術：回復の術<br/>
+                                    必殺技：恋のカラメルかしらん<br/>とりつく：知らんぷりさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">633</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ミーフー</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：ダブルヒール<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：極楽の術<br/>
+                                    必殺技：ミーフー乙女ハート<br/>とりつく：応援する
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">634</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">コアラニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：スイッチ<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：極楽の術<br/>
+                                    必殺技：ダブル世界ビーム<br/>とりつく：リアルにする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">635</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">Tジバニャン</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">
+                                    スキル：ハンター<br/>
+                                    攻撃：めったうち<br/>
+                                    妖術：こいしの術<br/>
+                                    必殺技：百列トレジャー肉球<br/>とりつく：身軽にする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">636</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">Tコマさん</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">
+                                    スキル：罠よけ師<br/>
+                                    攻撃：パンチ<br/>
+                                    妖術：落石の術<br/>
+                                    必殺技：ひとだまトレたズラ～<br/>とりつく：タフにする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">637</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">卵の君</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">
+                                    スキル：からをやぶる<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：極楽の術<br/>
+                                    必殺技：エッグい乱舞ぞよ<br/>とりつく：卵の栄養
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">638</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ワルノリン</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：ハンター<br/>
+                                    攻撃：閃光ぎり<br/>
+                                    妖術：いかずちの術<br/>
+                                    必殺技：ワルノリおふざ剣<br/>とりつく：悪乗りさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">660</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">パンドラ</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">
+                                    スキル：パンドラの箱<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：死神の術<br/>
+                                    必殺技：開けてお死舞☆<br/>とりつく：禁断の力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">664</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">スピーチ姫</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：スピーチ<br/>
+                                    攻撃：はりたおす<br/>
+                                    妖術：嵐の術<br/>
+                                    必殺技：大喝采スピーチ天国<br/>とりつく：心を動かす
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">676</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">銅拍子</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">
+                                    スキル：守りの拍子<br/>
+                                    攻撃：はたく<br/>
+                                    妖術：回復の術<br/>
+                                    必殺技：百鬼夜行のマーチ<br/>とりつく：拍子のリズム
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">686</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ふぶきちゃん</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">火</td>
+                                <td class="style_td">
+                                    スキル：尻たたき<br/>
+                                    攻撃：はりたおす<br/>
+                                    妖術：吹雪の術<br/>
+                                    必殺技：姫のおしおきビンタ<br/>とりつく：冷たくする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">687</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">KJ</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：アゲアゲバイブス<br/>
+                                    攻撃：ぶんなぐる<br/>
+                                    妖術：いかずちの術<br/>
+                                    必殺技：MONGEスクラッチ<br/>とりつく：ノリノリにする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">695</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">クレクレパトラ</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：クレクレ<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：極楽の術<br/>
+                                    必殺技：クレクレ欲しがり熱線<br/>とりつく：なんでも欲しがらせる
+                                </td>
+                            </tr>

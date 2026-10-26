@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>妖怪ウォッチ3 攻略ツール</title>
+
+    <link rel="icon" href="images/favicon.png" sizes="any">
+
+    <link rel="stylesheet" href="css/style.css">
+
+
+    <script src="js/damage.js" defer></script>
+    
+    <script src="js/agerank.js" type="module"></script>
+
+    <script src="js/yokaiList.js" type="module"></script>
+    
+    <script src="js/main.js" defer></script>
+
+
+    <!-- <script src="js/converter.js" type="module"></script> -->
+    
+
+</head>
+<body>
+    
+    <div class="top">
+        <div class="top-navbar">
+            <div class="titleImage top-navbar-gameTitle"></div>
+            <p class="top-navbar-title">攻略ツール</p>
+        </div>
+
+        <table class="top-menu">
+            <tbody>
+                <tr>
+                    <td class="top-menu-button" data-button-id="damage" data-selected="true">
+                        ダメージ計算
+                    </td>
+                    <td class="top-menu-button" data-button-id="agerank" data-selected="false">
+                        アゲランク
+                    </td>
+                    <td class="top-menu-button" data-button-id="yokaiList" data-selected="false">
+                        妖怪一覧
+                    </td>
+                </tr>
+                <tr>
+                    <td class="top-menu-button" data-button-id="question" data-selected="false">
+                        クエスチョン
+                    </td>
+                    <td class="top-menu-button" data-button-id="" data-selected="false">
+                        comming soon...
+                    </td>
+                    <td class="top-menu-button" data-button-id="" data-selected="false">
+                        comming soon...
+                    </td>
+                </tr>
+                
+            </tbody>
+            
+        </table>
+    </div>
+
+
+
+    <div id="damage" class="tool" data-hidden="true">
+        
+        <p class="tool-title">ダメージ計算機</p>
+        
+        <p class="tool-description">妖怪ウォッチ3のバトルでのダメージを計算できます。</p>
+        
+        <div class="tool-body">
+
+            <div class="whisupaImage tool-whisupa"></div>
+
+            <div class="tool-body-setting">
+                <div class="tool-body-setting-title">攻撃分類</div>
+
+                <div class="tool-body-setting-settingContainer">
+                    <div class="tool-body-settingContent">
+                        <select name="攻撃分類" class="damage-settingMenu" data-setting-type="attackClass">
+                            <option value="physic">こうげき</option>
+                            <option value="magic">ようじゅつ</option>
+                        </select>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="tool-body-setting">
+                <div class="tool-body-setting-title">基本設定</div>
+                
+                <div class="tool-body-setting-settingContainer">
+                    <div class="tool-body-settingContent">
+                        <p class="bgPower">攻撃側の攻撃力</p>
+                        <input type="number" name="攻撃側の攻撃力" class="damage-settingMenu" data-setting-type="attackerStatus">
+                    </div>
+
+                    <div class="tool-body-settingContent" id="defenderStatusSettingContent">
+                        <p class="bgDefense">防御側のまもり</p>
+                        <input type="number" name="防御側のまもり" class="damage-settingMenu" data-setting-type="defenderStatus">
+                    </div>
+
+                    <div class="tool-body-settingContent">
+                        <p class="bgMove">わざ威力</p>
+                        <input type="number" name="防御側のまもり" class="damage-settingMenu" data-setting-type="movePower">
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="tool-body-setting">
+                <div class="tool-body-setting-title">とりつく(攻撃関連)</div>
+
+                <div class="tool-body-setting-settingContainer" id="toritukuWrapper">
+                    <!-- ここにJSで生成されるselectタグたちが入る -->
+                </div>
+                
+                <button id="addTorituku">
+                    とりつくを追加
+                </button>
+                
+            </div>
+
+            <div class="tool-body-setting">
+                <div class="tool-body-setting-title">その他の補正</div>
+
+                <div class="tool-body-setting-settingContainer">
+                    <div class="tool-body-settingContent">
+                        <p>弱点属性</p>
+                        <select name="弱点属性" class="damage-settingMenu" data-setting-type="weakAttribute">
+                            <option value="1.5">ON</option>
+                            <option value="1" selected>OFF</option>
+                        </select>
+                    </div>
+                    <div class="tool-body-settingContent">
+                        <p>クリティカル</p>
+                        <select name="クリティカル" class="damage-settingMenu" data-setting-type="critical">
+                            <option value="1.5">ON</option>
+                            <option value="2">ON(超クリティカル)</option>
+                            <option value="3">ON(超クリティカルx2)</option>
+                            <option value="1" selected>OFF</option>
+                        </select>
+                    </div>
+                    <div class="tool-body-settingContent">
+                        <p>防御側ガード</p>
+                        <select name="防御側ガード" class="damage-settingMenu" data-setting-type="guard">
+                            <option value="0.5">ON</option>
+                            <option value="1" selected>OFF</option>
+                        </select>
+                    </div>
+                    <div class="tool-body-settingContent">
+                        <p>陣</p>
+                        <select name="陣" class="damage-settingMenu" data-setting-type="jin">
+                            <option value="0.586">真・イサマシ/フシギの陣</option>
+                            <option value="0.532">イサマシ/フシギの陣</option>
+                            <option value="0.475" selected>なし</option>
+                        </select>
+                    </div>
+                    <div class="tool-body-settingContent">
+                        <p>〇〇遊びの数</p>
+                        <select name="〇〇遊びの数" class="damage-settingMenu" data-setting-type="asobi">
+                            <option value="6">6</option>
+                            <option value="5">5</option>
+                            <option value="4">4</option>
+                            <option value="3">3</option>
+                            <option value="2">2</option>
+                            <option value="1">1</option>
+                            <option value="0" selected>0</option>
+                        </select>
+                    </div>
+                    <div class="tool-body-settingContent">
+                        <p>位置</p>
+                        <select name="位置" class="damage-settingMenu" data-setting-type="position">
+                            <option value="front" selected>最前列</option>
+                            <option value="center">中間列</option>
+                            <option value="back">最後列</option>
+                        </select>
+                    </div>
+                    
+
+                </div>
+
+            </div>
+
+            <div class="tool-body-setting">
+                <div class="tool-body-setting-title">ダメージ手動補正</div>
+
+                <div class="tool-body-setting-settingContainer">
+                    <div class="tool-body-settingContent">
+                        <p>倍率</p>
+                        <input type="number" value="1" name="手動設定倍率" class="damage-settingMenu" data-setting-type="manualMultiply">
+                    </div>
+                    <div class="tool-body-settingContent">
+                        <p>加算値</p>
+                        <input type="number" value="0" name="手動設定加算値" class="damage-settingMenu" data-setting-type="manualAdd">
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="tool-body-result">
+                <div class="tool-body-result-title">計算結果</div>
+
+                <div class="tool-body-result-resultContainer">
+                    <div class="tool-body-resultContent">
+                        <p>予想ダメージ</p>
+                        <p class="damage-resultString"><span class="tool-calcResult" id="damage-calcResult">---</span>(ダメージ)</p>
+                    </div>
+                    <div class="tool-body-notice">
+                        <p>※ 数値は目安です。実際のダメージは乱数により変動します。</p>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        
+        <p>引用:<a href="https://youtu.be/BW-e_PkYmgc?si=6LN2oGyOcPqlxWW2" target="_blank">【妖怪ウォッチ2検証】ダメージの計算式について考察したい</a></p>
+    </div>
+
+
+
+
+
+
+
+
+
+
+    <div id="agerank" class="tool" data-hidden="true">
+
+
+        <p class="tool-title">アゲランク後ステータス確認</p>
+        
+        <p class="tool-description">アゲランクの秘宝を使った後のステータスを確認できます。</p>
+        
+        <div class="tool-body">
+
+            <div class="jibanyanImage tool-whisupa"></div>
+
+            
+
+            <div class="tool-body-setting">
+                <div class="tool-body-setting-title">基本設定</div>
+                
+                <div class="tool-body-setting-settingContainer">
+
+                    <div class="tool-body-settingContent">
+                        <p>ステータス</p>
+                        <input type="number" name="アゲランク前のステータス" class="agerank-settingMenu" data-setting-type="beforeStatus">
+                    </div>
+
+
+                    <div class="tool-body-settingContent">
+                        <p>アゲランク回数</p>
+                        <select name="アゲランク回数" class="agerank-settingMenu" data-setting-type="numberAgerank">
+                            <option value="5">5(Eランク)</option>
+                            <option value="4">4(Dランク)</option>
+                            <option value="3">3(Cランク)</option>
+                            <option value="2">2(Bランク)</option>
+                            <option value="1" selected>1(Aランク)</option>
+                        </select>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="tool-body-result">
+                <div class="tool-body-result-title">計算結果</div>
+
+                <div class="tool-body-result-resultContainer">
+                    <p class="damage-resultString">
+                        <span id="agerank-beforeStatus">---</span>
+                        →
+                        <span class="tool-calcResult" id="agerank-afterStatus">---</span>
+                    </p>
+
+
+                </div>
+            </div>
+
+            
+        </div>
+
+        <p>引用:<a href="https://togenyanweb.appspot.com/Yokai/" target="_blank">妖怪関係</a></p>
+    </div>
+
+
+
+
+
+
+
+    <div id="yokaiList" class="tool" data-hidden="false">
+
+
+        <p class="tool-title">妖怪一覧</p>
+        
+        <p class="tool-description">妖怪ウォッチ3の全妖怪のステータスなどを確認できます。</p>
+        
+        <div class="tool-body">
+
+            <div class="whisupaImage tool-whisupa"></div>
+
+            
+
+            <div class="tool-body-setting">
+                <div class="tool-body-setting-title">基本設定</div>
+                
+                <div class="tool-body-setting-settingContainer">
+
+                    <div class="tool-body-settingContent">
+                        <p>キーワード検索</p>
+                        <input type="text" name="キーワード" class="yokaiList-settingMenu" data-setting-type="keyword">
+                    </div>
+
+
+                    <div class="tool-body-settingContent">
+                        <p>表示順</p>
+                        <select name="表示順" class="yokaiList-settingMenu" data-setting-type="order">
+                            <option value="no" selected>番号順</option>
+                            <option value="status-HP">HP順</option>
+                            <option value="status-力">ちから順</option>
+                            <option value="status-妖力">ようりょく順</option>
+                            <option value="status-守り">まもり順</option>
+                            <option value="status-素早さ">すばやさ順</option>
+                            <option value="status-total">総合順</option>
+                            <option value="ランク">ランク順</option>
+                            <option value="妖怪名">名前順</option>
+                            <option value="status-add-力+素早さ">ちから+すばやさ順</option>
+                            <option value="status-add-妖力+素早さ">ようりょく+すばやさ順</option>
+                            <option value="status-add-HP+素早さ">HP+すばやさ順</option>
+                            <option value="status-add-力+HP">ちから+HP順</option>
+                            <option value="status-add-妖力+HP">ようりょく+HP順</option>
+                            <option value="status-add-HP+守り">HP+まもり順</option>
+                        </select>
+                    </div>
+
+                    <div class="tool-body-settingContent">
+                        <p>Sまでアゲランク</p>
+                        <input type="checkbox" name="Sまでアゲランク" class="yokaiList-settingMenu" data-setting-type="sRank">
+                    </div>
+
+
+                    <div class="tool-body-settingContent">
+                        <p>種族</p>
+                        <select name="種族" class="yokaiList-settingMenu" data-setting-type="yokaiClass">
+                            <option value="all" selected>すべて</option>
+                            <option value="イサマシ">イサマシ</option>
+                            <option value="フシギ">フシギ</option>
+                            <option value="ゴーケツ">ゴーケツ</option>
+                            <option value="プリチー">プリチー</option>
+                            <option value="ポカポカ">ポカポカ</option>
+                            <option value="ウスラカゲ">ウスラカゲ</option>
+                            <option value="ブキミー">ブキミー</option>
+                            <option value="ニョロロン">ニョロロン</option>
+                            <option value="怪魔">怪魔</option>
+                            <option value="エンマ">エンマ</option>
+                            <option value="ハグレ">ハグレ</option>
+                        </select>
+                    </div>
+
+
+                </div>
+
+            </div>
+
+
+            <div id="yokaiList-listContainer">
+
+                <!-- JSの初期化時でここに要素を追加する -->
+                
+                <!-- <div class="yokaiList-yokai" data-yokai-data-index="0" data-yokai-type="0">
+
+                    <div class="flex yokaiList-yokai-header">
+                        <p class="yokaiList-yokai-no">001</p>
+                        
+                        <div class="yokaiList-yokai-header-nameAndSoOn flex spaceBetween">
+
+                            <p class="yokaiList-yokai-妖怪名">つまみぐいのすけ</p>
+
+                            <div class="flex yokaiList-yokai-header-nameAndSoOn-classAndRank">
+
+                                <p class="yokaiList-yokai-種族" data-yokaiClass="フシギ">フシギ</p>
+                                <p class="yokaiList-yokai-ランク" data-rank="D">D</p>
+
+                            </div>
+
+                        </div>
+
+                        <div class="yokaiList-yokai-header-smooth"></div>
+                    </div>
+
+                    <div class="flex">
+                    
+                        <div class="yokaiList-yokai-left">
+
+                            <div class="flex">
+                                <div class="yokaiList-yokai-hpWrapper flex marginBottom">
+                                    <p class="yokaiList-yokai-smallName">HP</p>
+                                    <p class="yokaiList-yokai-status-HP">286</p>
+                                </div>
+                                <div class="flex spaceAround fullWidth">
+                                    <div class="yokaiList-yokai-contentWrapper flex marginBottom">
+                                        <p class="yokaiList-yokai-smallName">とくい</p>
+                                        <p class="yokaiList-yokai-得意属性">氷</p>
+                                    </div>
+                                    <div class="yokaiList-yokai-contentWrapper flex marginBottom">
+                                        <p class="yokaiList-yokai-smallName">ニガテ</p>
+                                        <p class="yokaiList-yokai-苦手属性">炎</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div>
+                                
+                                <div class="flex spaceAround fullWidth">
+                                    <div class="yokaiList-yokai-contentWrapper flex marginBottom">
+                                        <p class="yokaiList-yokai-contentName" data-contentName="ちから">ちから</p>
+                                        <p class="yokaiList-yokai-status-力">57</p>
+                                    </div>
+                                    <div class="yokaiList-yokai-contentWrapper flex marginBottom">
+                                        <p class="yokaiList-yokai-contentName" data-contentName="ようりょく">ようりょく</p>
+                                        <p class="yokaiList-yokai-status-妖力">185</p>
+                                    </div>
+                                </div>
+
+                                <div class="flex spaceAround fullWidth">
+                                    <div class="yokaiList-yokai-contentWrapper flex marginBottom">
+                                        <p class="yokaiList-yokai-contentName" data-contentName="まもり">まもり</p>
+                                        <p class="yokaiList-yokai-status-守り">105</p>
+                                    </div>
+                                    <div class="yokaiList-yokai-contentWrapper flex marginBottom">
+                                        <p class="yokaiList-yokai-contentName" data-contentName="すばやさ">すばやさ</p>
+                                        <p class="yokaiList-yokai-status-素早さ">107</p>
+                                    </div>
+                                </div>
+                            
+                            </div>
+
+                            <div>
+                                <div class="flex spaceAround fullWidth">
+                                    <div class="yokaiList-yokai-contentWrapper flex marginBottom">
+                                        <p class="yokaiList-yokai-contentName">スキル</p>
+                                        <p class="yokaiList-yokai-スキル">雪あそび</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+
+                        <div class="yokaiList-yokai-right">
+
+                            <div class="yokaiList-yokai-contentWrapper flex marginBottom">
+                                <p class="yokaiList-yokai-contentName">攻撃</p>
+                                <p class="yokaiList-yokai-攻撃">ぶっとばす</p>
+                            </div>
+
+                            <div class="yokaiList-yokai-contentWrapper flex marginBottom">
+                                <p class="yokaiList-yokai-contentName">妖術</p>
+                                <p class="yokaiList-yokai-妖術">れんごくの術</p>
+                            </div>
+
+                            <div class="yokaiList-yokai-contentWrapper flex marginBottom">
+                                <p class="yokaiList-yokai-contentName">必殺</p>
+                                <p class="yokaiList-yokai-必殺技">イチかバチかショット</p>
+                            </div>
+
+                            <div class="yokaiList-yokai-contentWrapper flex marginBottom">
+                                <p class="yokaiList-yokai-contentName">取憑</p>
+                                <p class="yokaiList-yokai-とりつく">手元を狂わせる</p>
+                            </div>
+
+
+                        </div>
+                    
+                    </div>
+
+
+                </div> -->
+
+
+
+
+
+
+            </div>
+
+            
+        </div>
+
+        <p>引用:<a href="https://spwiki.net/youkaiwatch3/" target="_blank">妖怪ウォッチ3 最速攻略wiki</a></p>
+    </div>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+</head>
+<body>
+    <table>
+        <tbody>
+
+                            <tr>
+                                <td class="style_td" style="text-align:right;">575</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">厄怪</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">
+                                    スキル：はなさない！<br/>
+                                    攻撃：するどいつめ<br/>
+                                    妖術：死神の術<br/>
+                                    必殺技：厄介な呪い<br/>とりつく：厄介な力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">576</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">不怪</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：呪いの天才<br/>
+                                    攻撃：はりたおす<br/>
+                                    妖術：大滝の術<br/>
+                                    必殺技：不快なキッス<br/>とりつく：不快な力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">577</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">豪怪</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">
+                                    スキル：超クリティカル<br/>
+                                    攻撃：骨くだき<br/>
+                                    妖術：いん石の術<br/>
+                                    必殺技：豪快な守り<br/>とりつく：豪快な力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">578</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">難怪</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：木魚のリズム<br/>
+                                    攻撃：ぶったたく<br/>
+                                    妖術：嵐の術<br/>
+                                    必殺技：難解な呪文<br/>とりつく：難解な力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">579</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">破怪</td>
+                                <td class="style_td">S</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：ガードくずし<br/>
+                                    攻撃：正拳突き<br/>
+                                    妖術：雷神の術<br/>
+                                    必殺技：破壊の一撃<br/>とりつく：破壊的な力
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">580</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">あかなめ・怪</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">
+                                    スキル：あかなめ<br/>
+                                    攻撃：舌でなめる<br/>
+                                    妖術：いかずちの術<br/>
+                                    必殺技：べろりんぺろんちょ<br/>とりつく：なめまわす
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">581</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">泥田坊・怪</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">
+                                    スキル：おんねん<br/>
+                                    攻撃：ぶんなぐる<br/>
+                                    妖術：落石の術<br/>
+                                    必殺技：田を返せ～田を返せ～<br/>とりつく：田の恨み
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">582</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">えんらえんら・怪</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：妖気のけむり<br/>
+                                    攻撃：はりたおす<br/>
+                                    妖術：嵐の術<br/>
+                                    必殺技：めくれるトルネード<br/>とりつく：いやなけむり
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">583</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">河童・怪</td>
+                                <td class="style_td">A</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：いあつかん<br/>
+                                    攻撃：ワンツーパンチ<br/>
+                                    妖術：大滝の術<br/>
+                                    必殺技：カッパッ波ー！<br/>とりつく：邪気を伝える
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">584</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">から傘お化け・怪</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">氷</td>
+                                <td class="style_td">
+                                    スキル：から傘シールド<br/>
+                                    攻撃：こづく<br/>
+                                    妖術：竜巻の術<br/>
+                                    必殺技：カラカラからっ風<br/>とりつく：ボロボロにする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">585</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ざしきわらし・怪</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">
+                                    スキル：こううん<br/>
+                                    攻撃：たたく<br/>
+                                    妖術：回復の術<br/>
+                                    必殺技：無邪気ワールド<br/>とりつく：嫌な気分にする
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">586</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">くだん・怪</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">
+                                    スキル：未来予知<br/>
+                                    攻撃：あてみ<br/>
+                                    妖術：回復の術<br/>
+                                    必殺技：いやしの吉兆<br/>とりつく：不幸な呪い
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">587</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">けうけげん・怪</td>
+                                <td class="style_td">D</td>
+                                <td class="style_td">土</td>
+                                <td class="style_td">風</td>
+                                <td class="style_td">
+                                    スキル：ふっさふさ<br/>
+                                    攻撃：しっぽうち<br/>
+                                    妖術：落石の術<br/>
+                                    必殺技：ファサファサ厄払い<br/>とりつく：モフモフさせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">588</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">にんぎょ・怪</td>
+                                <td class="style_td">C</td>
+                                <td class="style_td">水</td>
+                                <td class="style_td">雷</td>
+                                <td class="style_td">
+                                    スキル：しんぴのウロコ<br/>
+                                    攻撃：しっぽうち<br/>
+                                    妖術：水流の術<br/>
+                                    必殺技：渚のハイカラウェーブ<br/>とりつく：くさらせる
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style_td" style="text-align:right;">589</td>
+                                <td class="style_td" style="background-color:#FFFFDD;">ろくろ首・怪</td>
+                                <td class="style_td">B</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">-</td>
+                                <td class="style_td">
+                                    スキル：ながい首<br/>
+                                    攻撃：たたく<br/>
+                                    妖術：回復の術<br/>
+                                    必殺技：のびのびごっつんこ<br/>とりつく：首でしばる
+                                </td>
+                            </tr>
