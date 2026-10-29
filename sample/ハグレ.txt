@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-</head>
-<body>
-    <table>
-        <tbody>
-<tr><td class="style_td" style="text-align:right;">564</td><td class="style_td" style="background-color:#FFFFDD;">アンドロイド山田</td><td class="style_td">B</td><td class="style_td">－</td><td class="style_td">－</td><td class="style_td">スキル：アンドロイド化<br />攻撃：ヘッドバット<br />妖術：いかずちの術<br />必殺技：へそビーム<br />とりつき：アンドロイドにする</td></tr>
