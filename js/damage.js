@@ -150,13 +150,17 @@ const calcDamageYokaiwatch3 = (
     let damage = 0;
 
     // 計算式
-    damage = attackerStatus * jin + movePower * 0.5;
     
     if (isPhysic) {
-        damage -= defenderStatus * defenderMultiply * 0.25;
+        damage = attackerStatus * attackMultiply * jin * 0.3 + movePower * 1.5;
+    } else {
+        damage = attackerStatus * attackMultiply * jin + movePower * 0.5;
     }
     // 全体補正
-    damage *= attackMultiply;
+    if (isPhysic) {
+        damage -= defenderStatus * defenderMultiply * 0.12;
+        damage -= 27;
+    }
     damage *= critical;
     damage *= guard;
     damage *= 1.1 ** asobi;
